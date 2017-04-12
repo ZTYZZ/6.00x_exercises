@@ -11,3 +11,10 @@ elif x%3==0:
     print('Divisible by 3 and not by 2')
 else:
     print('divisible not by 3 and by 2')
+
+#   切片的相关知识
+>>>str - 'helloworld'
+>>>str[1:9:2]
+>>>'elwr'
+>>>str[::-1]
+>>>'dlrowolleh'
