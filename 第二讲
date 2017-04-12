@@ -18,3 +18,6 @@ else:
 >>>'elwr'
 >>>str[::-1]
 >>>'dlrowolleh'
+
+#Write a piece of Python code that prints out the string hello world
+print('hello world')
