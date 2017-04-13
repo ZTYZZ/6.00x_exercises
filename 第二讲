@@ -21,3 +21,7 @@ else:
 
 #Write a piece of Python code that prints out the string hello world
 print('hello world')
+
+#
+if happy>2:
+    print('hello world')
